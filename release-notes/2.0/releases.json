@@ -6,7 +6,7 @@
   "latest-sdk": "2.1.202",
   "support-phase": "eol",
   "eol-date": "2018-10-01",
-  "lifecycle-policy": "https://www.microsoft.com/net/support/policy",
+  "lifecycle-policy": "https://dotnet.microsoft.com/platform/support/policy/",
   "releases": [
     {
       "release-date": "2018-07-10",
@@ -246,12 +246,6 @@
             "rid": "win-x64",
             "url": "https://download.microsoft.com/download/C/7/D/C7DCA2DE-7163-45D1-A05A-5112DAF51445/dotnet-sdk-2.1.201-win-x64.zip",
             "hash": "34c4c7a48ee9b88cf2c523d615816b1c597f0187e716271926e7fbe478b92f6d6c0faab4884cc897309f38168a033039a8315a395e887a4c90dddb1791f7d2a0"
-          },
-          {
-            "name": "dotnet-sdk-win-x86.exe",
-            "rid": "win-x86",
-            "url": "https://download.microsoft.com/download/C/7/D/C7DCA2DE-7163-45D1-A05A-5112DAF51445/dotnet-sdk-2.1.201-win-x86.exe",
-            "hash": "d43906850d834df01e4664941633cb75db765fbab6b73057a7eec98b1be43de8fed08ccf6d73c1453baa4666c8f7bf26e9cb70592078d8102a6ae17c4aa20fc0"
           },
           {
             "name": "dotnet-sdk-win-x86.exe",
@@ -1420,7 +1414,7 @@
           {
             "name": "dotnet-sdk-win-x86.zip",
             "rid": "win-x86",
-            "url": "https://download.microsoft.com/download/5/D/F/5DF4B836-7DFD-4CCF-AC96-101E2A4C7421/dotnet-sdk-2.1.3-win-x86.zip",
+            "url": "https://download.microsoft.com/download/2/9/3/293BC432-348C-4D1C-B628-5AC8AB7FA162/dotnet-sdk-2.1.3-win-x86.zip",
             "hash": "9adc65a0708d7ae8300ae13db509313083ecece3901576c98c69413608ccffe7e73f35547583760c4ee08f01a9e9b6e89098788344027827602053ee4106af38"
           },
           {
@@ -1867,7 +1861,7 @@
       "release-notes": null,
       "runtime": {
         "version": "2.0.0-preview2-25407-01",
-        "version-display": null,
+        "version-display": "2.0.0-preview2",
         "vs-version": null,
         "files": [
           {
@@ -1898,7 +1892,7 @@
       },
       "sdk": {
         "version": "2.0.0-preview2-006497",
-        "version-display": null,
+        "version-display": "2.0.0-preview2",
         "runtime-version": "2.0.0-preview2-25407-01",
         "vs-version": null,
         "csharp-version": null,
@@ -1942,7 +1936,7 @@
       "release-notes": null,
       "runtime": {
         "version": "2.0.0-preview1-002111-00",
-        "version-display": null,
+        "version-display": "2.0.0-preview1",
         "vs-version": null,
         "files": [
           {
@@ -1973,7 +1967,7 @@
       },
       "sdk": {
         "version": "2.0.0-preview1-005977",
-        "version-display": null,
+        "version-display": "2.0.0-preview1",
         "runtime-version": "2.0.0-preview1-002111-00",
         "vs-version": null,
         "csharp-version": null,
@@ -1995,11 +1989,23 @@
           {
             "name": "dotnet-sdk-win-x86.zip",
             "rid": "win-x86",
+            "url": "https://download.microsoft.com/download/0/6/5/0656B047-5F2F-4281-A851-F30776F8616D/dotnet-dev-win-x86.2.0.0-preview1-005977.zip",
+            "hash": "0740404555687060f8d3bd32fb134d6dd92ac6fcdaaf439deb2aa3a9d55d211b"
+          },
+          {
+            "name": "dotnet-sdk-win-x64.zip",
+            "rid": "win-x64",
+            "url": "https://download.microsoft.com/download/0/6/5/0656B047-5F2F-4281-A851-F30776F8616D/dotnet-dev-win-x64.2.0.0-preview1-005977.zip",
+            "hash": "f85b46532faf6e6fb1adf9f6a6df3ffa039154b89aa3db63b633f227cd1a1e43"
+          },
+          {
+            "name": "dotnet-sdk-win-x86.exe",
+            "rid": "win-x86",
             "url": "https://download.microsoft.com/download/3/7/F/37F1CA21-E5EE-4309-9714-E914703ED05A/dotnet-dev-win-x86.2.0.0-preview1-005977.exe",
             "hash": "44e03bb1b703745b07316980bcc7ce86792cd33865fca6e932f96a3da001fdf9"
           },
           {
-            "name": "dotnet-sdk-win-x64.zip",
+            "name": "dotnet-sdk-win-x64.exe",
             "rid": "win-x64",
             "url": "https://download.microsoft.com/download/3/7/F/37F1CA21-E5EE-4309-9714-E914703ED05A/dotnet-dev-win-x64.2.0.0-preview1-005977.exe",
             "hash": "ba2a47e5e63f2e695317dfcee928f5655ce87b2956a4de9e31d9a7a57e0618fd"
